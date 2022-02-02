@@ -1,4 +1,4 @@
-# ALEST-AutoPecas-Desafio
+# ALEST-AutoPecas-Backend
 
 ## Rodar o Backend: 
 
